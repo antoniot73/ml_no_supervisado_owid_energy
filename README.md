@@ -1,17 +1,16 @@
 # Análisis de perfiles energéticos mediante K-means y PCA sobre OWID Energy
 
-**Repositorio:**  
+**Repositorio GitHub:**
 https://github.com/antoniot73/ml_no_supervisado_owid_energy
 
-**GitHub Pages:**  
-https://antoniot73.github.io/ml_no_supervisado_owid_energy/
-
-**Práctica HTML:**  
-https://antoniot73.github.io/ml_no_supervisado_owid_energy/notebooks/practica_no_supervisado_owid_energy.html
-
-**Binder:**  
+**URL Binder:**
 https://mybinder.org/v2/gh/antoniot73/ml_no_supervisado_owid_energy/main?filepath=notebooks/practica_no_supervisado_owid_energy.ipynb
 
+**GitHub Page:**
+https://antoniot73.github.io/ml_no_supervisado_owid_energy/notebooks/practica_no_supervisado_owid_energy.html
+
+**Dataset utilizado:**
+https://github.com/owid/energy-data
 ---
 
 # Instituto Internacional de Aguascalientes
@@ -422,11 +421,8 @@ https://mybinder.org/v2/gh/antoniot73/ml_no_supervisado_owid_energy/main?filepat
 
 Página principal:
 
-https://antoniot73.github.io/ml_no_supervisado_owid_energy/
-
-Práctica HTML:
-
 https://antoniot73.github.io/ml_no_supervisado_owid_energy/notebooks/practica_no_supervisado_owid_energy.html
+
 
 ---
 
