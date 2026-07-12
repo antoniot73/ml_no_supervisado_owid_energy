@@ -1,0 +1,3 @@
+modelo,objetivo,salida_principal,criterio_prueba,resultado_clave
+K-means,Agrupar países por similitud energética,2 clústeres,Inercia y silueta,Silueta = 0.328
+PCA,Reducir dimensionalidad y explicar variación,Componentes principales,Varianza explicada y cargas,CP1+CP2 = 60.7%; 4 componentes alcanzan 80%
