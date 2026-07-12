@@ -11,6 +11,7 @@ https://antoniot73.github.io/ml_no_supervisado_owid_energy/notebooks/practica_no
 
 **Dataset utilizado:**
 https://github.com/owid/energy-data
+
 ---
 
 # Instituto Internacional de Aguascalientes
